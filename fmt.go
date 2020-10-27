@@ -5,6 +5,8 @@ import (
 	"time"
 )
 
+
+// Hauptprogramm
 func main() {
 	logging := true     //*
 	name := "anton"     //*
